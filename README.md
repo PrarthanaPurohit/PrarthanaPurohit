@@ -26,7 +26,7 @@ I enjoy building scalable systems and experimenting with decentralized technolog
 
 ###  Web3 & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=eth,raspberrypi,git" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,git" />
 </p>
 
 ---
