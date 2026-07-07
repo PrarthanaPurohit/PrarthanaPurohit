@@ -1,11 +1,11 @@
 # Hi, I'm Prarthana Purohit 
 
-Full Stack Developer • Rust Developer • Web3 Enthusiast  
+Full Stack Developer • Rust Developer • Nostr Enthusiast  
 I enjoy building scalable systems and experimenting with decentralized technologies.
 
 ## About
 - Passionate about building impactful software and continuosly learning new technologies.
-- Interested in **Full Stack Development, Rust, C++, JavaScript, Web3, and Cryptography**
+- Interested in **Full Stack Development, Rust, C++, JavaScript, Nostr, and Cryptography**
 
 ## Tech Stack
 
